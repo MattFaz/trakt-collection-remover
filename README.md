@@ -23,4 +23,7 @@ Remove movies from Trakt collection in batches with a countdown display
 
 ## TODO:
 
--   [ ] Update to remove TV Shows as well _(this script may already work for TV Shows but it is untested)_
+-   [ ] Enhancement: Update to remove TV Shows _(may already work but is untested)_
+-   [ ] Enhancement: Add functionality to progress to next page
+-   [ ] Bug: Button disappears when going to next page, requires user to refresh page
+-   [ ]
