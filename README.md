@@ -10,7 +10,7 @@ Remove movies from Trakt collection in batches with a countdown display
 
 ## Process
 
--   Copy the code from the [script.js](/script.js) file and add it to your Userscript extension
+-   Copy the code from [trakt-collection-remover.user.js](/trakt-collection-remover.user.js) into your Userscript extension ([or click this link](https://github.com/MattFaz/trakt-collection-remover/raw/main/trakt-collection-remover.user.js))
 -   Go to the trakt.tv collections page for movies
 -   Click the _'Remove Movies from Collection'_ button
 -   A popup window will appear for you to enter the number of movies to remove in this batch (_or all on page_)
